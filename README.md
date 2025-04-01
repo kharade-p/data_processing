@@ -7,9 +7,10 @@ Run the Application
 
 To view data download sqlite browser as per system from below link 
  https://sqlitebrowser.org/dl/
- After installation choose "Open Database" and select sales.db file
+ After installation open sqlite , choose "Open Database" and select sales.db file
 
 Queries to validate results
+to execute query go to "Execute SQL Option" and execute below queries
 # -- Total number of records
 # SELECT COUNT(*) FROM sales_data;
 
