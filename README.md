@@ -3,6 +3,7 @@ Clone the Repository
   cd develop
 
 Run the Application
+  Download the csv file and provide file in code at line 93 and 95.
   python process_data.py 
 
 To view data download sqlite browser as per system from below link 
